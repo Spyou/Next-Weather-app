@@ -6,7 +6,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Spyou/Todo-App
+  git clone https://github.com/Spyou/Next-Weather-app
 ```
 
 Go to the project directory
